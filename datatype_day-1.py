@@ -66,4 +66,12 @@ print(b)
 # NoneType
 # Represents the absence of a value.
 
+# this is the topdays task
+
+employee_name = "John"
+employee_id = 10
+employee_age = 25
+emoloyee_monthly_salary=3000.000
+mployee_status = True
+
 
